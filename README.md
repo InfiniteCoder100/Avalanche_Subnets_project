@@ -38,12 +38,13 @@ Test your application: Utilize Remix to interact with your deployed smart contra
 ## Smart Contracts
 We have deployed two foundational smart contracts for DeFi Empire:
 
+## ERC20.sol
 ERC20 Token Contract: This contract implements a standard ERC20 token with functionalities for transfers, allowances, minting, and burning. Players can use this token as an in-game currency.
 
-## ERC20.sol
+## Vault.sol
 Vault Contract: The Vault contract enables users to deposit and withdraw their tokens while maintaining the total supply and individual balances. This contract serves as the basis for managing liquidity within the game.
 
-## Vault.sol
+
 ## Usage
 To start your DeFi Kingdom adventure, follow these steps:
 
